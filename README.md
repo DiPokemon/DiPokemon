@@ -9,21 +9,26 @@
 [![Чаще всего использую](https://github-readme-stats.vercel.app/api/top-langs/?username=DiPokemon&layout=compact&hide=html&theme=buefy)](https://github.com/DiPokemon?tab=repositories)
 
 ### :hammer_and_wrench: Использую инструменты и технологии:
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/WP-282C34?logo=wordpress" alt="WP logo" title="WP" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQ logo" title="JQ" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP logo" title="WP" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Elementor-282C34?logo=Elementor" alt="Elementor logo" title="Elementor" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="28" />&nbsp;
 
-### 🤔 Имею опыт работы с:
-<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="28" />&nbsp;
+
+### 🤔 Имею опыт работы и начальные знания:
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/1%D0%A1_%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81-282C34?logo=1c-bitrix" alt="1C logo" title="1C" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/MODX-282C34?logo=MODX" alt="MODX logo" title="MODX" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/MODX-3DDC84?style=for-the-badge&logo=MODX&logoColor=white" alt="MODX logo" title="MODX" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJango logo" title="DJANGO" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL logo" title="MYSQL" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla logo" title="Joomla" height="28" />&nbsp;
+
 
 ### :mag_right: Связаться со мной:
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/DiPokemon)
