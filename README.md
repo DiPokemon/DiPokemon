@@ -23,7 +23,7 @@
 
 ### 🤔 Имею опыт работы и начальные знания:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/1%D0%A1_%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81-282C34?logo=1c-bitrix" alt="1C logo" title="1C" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/1C_Bitrix-d91935?style=for-the-badge" alt="1C logo" title="1C" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/MODX-3DDC84?style=for-the-badge&logo=MODX&logoColor=white" alt="MODX logo" title="MODX" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJango logo" title="DJANGO" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL logo" title="MYSQL" height="28" />&nbsp;
