@@ -12,9 +12,10 @@
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML5 logo" title="HTML5" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="JavaScript logo" title="JavaScript" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/WP-282C34?logo=wordpress" alt="WP logo" title="WP" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Elementor-282C34?logo=Elementor alt="Elementor logo" title="Elementor" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Elementor-282C34?logo=Elementor" alt="Elementor logo" title="Elementor" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="28" />&nbsp;
 
