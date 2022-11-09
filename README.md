@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP logo" title="WP" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Elementor-282C34?logo=Elementor" alt="Elementor logo" title="Elementor" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git" alt="git logo" title="git" height="28" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Elementor-92003b?style=for-the-badge&logo=Elementor" alt="Elementor logo" title="Elementor" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="28" />&nbsp;
 
 
 ### 🤔 Имею опыт работы и начальные знания:
@@ -31,8 +31,8 @@
 
 
 ### :mag_right: Связаться со мной:
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/DiPokemon)
-[<img src="https://img.shields.io/badge/Email-282C34?logo=Mail.Ru" alt="Mail.Ru logo" title="Mail.Ru" height="28" />](mailto:dimitrnklnk@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/DiPokemon)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail logo" title="GMail" height="28" />](mailto:dimitrnklnk@gmail.com)
 
 
 <!--
