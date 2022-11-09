@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/1%D0%A1_%D0%91%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81-282C34?logo=1c-bitrix" alt="1C logo" title="1C" height="28" />&nbsp;
 <img src="https://img.shields.io/badge/MODX-282C34?logo=MODX" alt="MODX logo" title="MODX" height="28" />&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJango logo" title="DJANGO" height="28" />&nbsp;
 
 ### :mag_right: Связаться со мной:
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Telegram logo" title="Telegram" height="28" />](https://t.me/DiPokemon)
