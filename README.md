@@ -1,6 +1,6 @@
 ## Здравствуйте! 👋
 
-Меня зовут Димитрий, я начинающий веб-разработчик. Сейчас работаю в студии интрнет-маркетинга **[TopLand](https://topland-rnd.ru/)**
+Меня зовут Димитрий, я начинающий веб-разработчик.
 
 [![Текущая статистика](https://github-readme-stats.vercel.app/api?username=DiPokemon&show_icons=true&count_private=true&hide=stars,issues,contribs&theme=buefy)](https://github.com/DiPokemon?tab=repositories)
 
